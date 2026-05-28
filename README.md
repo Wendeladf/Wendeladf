@@ -234,7 +234,13 @@ color:       "#7C3AED"  # roxo, sem discussão
  
 <div align="center">
  
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0117&interchange=false&bar_color=A855F7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true">
+  </a>
+</p>
  
 > ⚠️ **Para ativar:** acesse [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com), conecte sua conta Spotify, copie seu UID e substitua `SEU_SPOTIFY_UID` acima.
  
@@ -252,16 +258,6 @@ color:       "#7C3AED"  # roxo, sem discussão
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/pacman-contribution-graph.svg" />
     <img alt="pac-man comendo contribuições do github" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/pacman-contribution-graph.svg" />
   </picture>
-</div>
- 
----
- 
-## 💬 Frase da semana
- 
-<div align="center">
- 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+poetry+written+in+logic&author=Wendel+Augusto)](https://github.com/piyushsuthar/github-readme-quotes)
- 
 </div>
  
 ---
