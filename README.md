@@ -47,7 +47,6 @@ experience:
 focus:       Modernização de sistemas legados + produtos com impacto real
 available:   Remoto (BR e internacional) · Presencial em Bonito/MS
 languages:   Português 🇧🇷 · English 🇺🇸
-color:       "#7C3AED"  # roxo, sem discussão
 ```
 
 > 🟣 Construo software que resolve problema de verdade — do setor público ao ecoturismo, com performance, usabilidade e resultado.
