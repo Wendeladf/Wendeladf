@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-augusto-b019b82b8)
 [![Gmail](https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendeladf13@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-A855F7?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com](https://br.fiverr.com/s/m58rpKx)
+[![Fiverr](https://img.shields.io/badge/Fiverr-A855F7?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/s/m58rpKx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wendeladf&color=7C3AED&style=for-the-badge&label=VISITAS)
