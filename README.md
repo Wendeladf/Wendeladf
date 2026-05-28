@@ -12,16 +12,12 @@
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:wendeladf13@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" />
-</a>
-&nbsp;&nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
   <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="36" height="36" />
 </a>
 &nbsp;&nbsp;
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true">
-  <img src="https://cdn.simpleicons.org/spotify/1DB954" width="36" height="36" />
+<a href="SEU_LINK_DO_INSTAGRAM">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" height="36" />
 </a>
 
 <br/><br/>
