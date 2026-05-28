@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Pac-Man eats through contributions instead of snake -->
-<!-- GitHub Actions workflow: replace snake with pac-man -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,30&height=180&section=header&text=Wendel%20Augusto&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%94%20Vue%20%C2%B7%20React%20%C2%B7%20PHP%20%C2%B7%20Python&descAlignY=60&descColor=c084fc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,30&height=200&section=header&text=Wendel%20Augusto&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%94%20Vue%20%C2%B7%20React%20%C2%B7%20PHP%20%C2%B7%20Python&descAlignY=58&descColor=c084fc&animation=fadeIn" />
 
 <br/>
 
@@ -176,9 +173,9 @@ color:       "#7C3AED"  # roxo, sem discussão
   <sub>👾 Cada quadradinho é um commit — e o Pac-Man não para de comer! 🟣</sub>
   <br /><br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg" />
-    <img alt="pac-man comendo contribuições do github" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/pacman-contribution-graph.svg" />
+    <img alt="pac-man comendo contribuições do github" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
