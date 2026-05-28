@@ -9,15 +9,15 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="36" />
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1DBF73" height="36" />
+  <img src="https://img.icons8.com/fluency/48/fiverr.png" width="40" height="40" />
 </a>
 &nbsp;
 <a href="SEU_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="36" />
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" />
 </a>
 
 <br/><br/>
