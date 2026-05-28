@@ -15,13 +15,15 @@
 ## 👨‍💻 Sobre mim
 
 ```yaml
-name: Wendel Augusto Dias Ferreira
-location: Bonito, MS — Brasil 🌿
-role: Fullstack Developer
-experience: 5 anos com Vue.js/Quasar · 3 anos com React, PHP e Python
-available: Remoto (nacional e internacional) · Presencial em Bonito/MS
-languages: Português 🇧🇷 · English 🇺🇸
+name:        Wendel Augusto Dias Ferreira
+location:    Bonito, MS — Brasil 🌿
+role:        Fullstack Developer
+experience:  5 anos com Vue.js/Quasar · 3 anos com React, PHP e Python
+available:   Remoto (nacional e internacional) · Presencial em Bonito/MS
+languages:   Português 🇧🇷 · English 🇺🇸
 ```
+
+> Transformo sistemas legados em soluções modernas. Do setor público ao ecoturismo — código com impacto real.
 
 ---
 
@@ -53,7 +55,7 @@ languages: Português 🇧🇷 · English 🇺🇸
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Estudando agora**
+**📚 Estudando agora**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -65,12 +67,39 @@ languages: Português 🇧🇷 · English 🇺🇸
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🔐 **SaaS Controle de Acesso** | Sistema com reconhecimento facial e integração de hardware biométrico (Intelbras/BTMS) para a Prefeitura de Bonito/MS. Dashboards em tempo real. | Vue.js · PHP · Biometria |
-| 🎫 **Vouchers Turísticos** | Modernização de sistema legado (1990). Operação em 3 municípios. Reduziu superlotação e crimes ambientais. | Vue.js · PHP · MySQL |
-| 📖 **Plataforma de Novels** | Leitura fluida com carregamento dinâmico e arquitetura para alto volume de conteúdo. | Vue.js · Quasar |
-| 🤖 **FAQ com IA** *(dev)* | Sistema inteligente com LangChain e RAG. Base de conhecimento customizada. | Python · LangChain · RAG |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 SaaS Controle de Acesso</h3>
+      <p>Reconhecimento facial + hardware biométrico (Intelbras/BTMS) para a <strong>Prefeitura de Bonito/MS</strong>. Dashboards em tempo real para monitoramento de acesso.</p>
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Biometria-4FC08D?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎫 Vouchers Turísticos</h3>
+      <p>Modernização de sistema legado (1990) em <strong>3 municípios</strong>. Reduziu superlotação e crimes ambientais no ecoturismo de Bonito — referência mundial.</p>
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 Plataforma de Novels</h3>
+      <p>Leitura fluida com carregamento dinâmico e arquitetura pensada para <strong>alto volume de conteúdo</strong> e experiência do leitor.</p>
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+      <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 FAQ com IA <em>(em dev)</em></h3>
+      <p>Sistema de perguntas e respostas com <strong>LangChain + RAG</strong>. Busca semântica e respostas contextualizadas com base de conhecimento customizada.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-4FC08D?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,6 +121,16 @@ languages: Português 🇧🇷 · English 🇺🇸
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Wendeladf&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wendeladf&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
