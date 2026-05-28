@@ -9,19 +9,19 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:wendeladf13@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" />
 </a>
 &nbsp;&nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="36" height="36" />
 </a>
 &nbsp;&nbsp;
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true">
-  <img src="https://cdn.simpleicons.org/spotify/1DB954" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/spotify/1DB954" width="36" height="36" />
 </a>
 
 <br/><br/>
