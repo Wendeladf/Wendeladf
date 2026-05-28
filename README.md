@@ -9,19 +9,19 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/%20-0d0117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="48" />
 </a>
 &nbsp;
 <a href="mailto:wendeladf13@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/%20-0d0117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="48" />
 </a>
 &nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/%20-0d0117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" height="48" />
 </a>
 &nbsp;
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/%20-0d0117?style=for-the-badge&logo=spotify&logoColor=1DB954" height="48" />
 </a>
 
 <br/><br/>
