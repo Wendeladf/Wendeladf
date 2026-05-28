@@ -8,20 +8,20 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8" target="_blank">
-  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=32" height="52" />
+<a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
+  <img src="https://img.shields.io/badge/in-0d0117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="48" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:wendeladf13@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=32" height="52" />
+&nbsp;
+<a href="mailto:wendeladf13@gmail.com">
+  <img src="https://img.shields.io/badge/@-0d0117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="48" />
 </a>
-&nbsp;&nbsp;
-<a href="https://br.fiverr.com/s/m58rpKx" target="_blank">
-  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=fiverr&logoColor=1DBF73&logoWidth=32" height="52" />
+&nbsp;
+<a href="https://br.fiverr.com/s/m58rpKx">
+  <img src="https://img.shields.io/badge/f-0d0117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" height="48" />
 </a>
-&nbsp;&nbsp;
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true" target="_blank">
-  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=spotify&logoColor=1DB954&logoWidth=32" height="52" />
+&nbsp;
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true">
+  <img src="https://img.shields.io/badge/♫-0d0117?style=for-the-badge&logo=spotify&logoColor=1DB954" height="48" />
 </a>
 
 <br/><br/>
@@ -222,7 +222,7 @@ languages:   Português 🇧🇷 · English 🇺🇸
 <div align="center">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0117&interchange=false&bar_color=A855F7&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true" />
 </a>
 
 </div>
