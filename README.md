@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:wendeladf13@gmail.com">
