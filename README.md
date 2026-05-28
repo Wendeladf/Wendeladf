@@ -108,17 +108,7 @@ languages:   Português 🇧🇷 · English 🇺🇸
 
 </div>
 
----
 
-## 🏆 Troféus
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Wendeladf&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 📈 Atividade
 
