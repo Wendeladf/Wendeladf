@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-augusto-b019b82b8)
 [![Gmail](https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendeladf13@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-A855F7?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/s/m58rpKx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wendeladf&color=7C3AED&style=for-the-badge&label=VISITAS)
 
@@ -141,16 +140,6 @@ languages:   Português 🇧🇷 · English 🇺🇸
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wendeladf&theme=midnight-purple&hide_border=true&ring=A855F7&fire=7C3AED&currStreakLabel=c084fc&background=0d0117&sideLabels=c084fc&dates=9333EA&currStreakNum=white&sideNums=white)
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wendeladf&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=A855F7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
