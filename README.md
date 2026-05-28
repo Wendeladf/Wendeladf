@@ -101,7 +101,7 @@ languages: Português 🇧🇷 · English 🇺🇸
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg)
 
 </div>
 
