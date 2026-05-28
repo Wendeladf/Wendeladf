@@ -178,15 +178,6 @@ languages:   Português 🇧🇷 · English 🇺🇸
   </picture>
 </div>
 
----
-
-## 💬 Frase da semana
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+poetry+written+in+logic&author=Wendel+Augusto)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
