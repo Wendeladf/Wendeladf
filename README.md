@@ -140,6 +140,4 @@ languages:   Português 🇧🇷 · English 🇺🇸
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg" />
   </picture>
-  <br /><br />
-  <img alt="github contribution grid snake gif" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.gif" />
 </div>
