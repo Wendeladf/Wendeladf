@@ -1,27 +1,39 @@
 <div align="center">
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,30&height=200&section=header&text=Wendel%20Augusto&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%94%20Vue%20%C2%B7%20React%20%C2%B7%20PHP%20%C2%B7%20Python&descAlignY=58&descColor=c084fc&animation=fadeIn" />
- 
+
 <br/>
- 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=🟣+Transformando+ideias+em+sistemas+reais;⚡+5+anos+de+Vue.js+%2F+Quasar;🧠+Setor+público+ao+ecoturismo;🤖+Explorando+IA+com+LangChain+%2B+RAG;🌿+Bonito%2C+MS+—+Brasil" alt="Typing SVG" />
- 
+
 <br/><br/>
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-augusto-b019b82b8)
-[![Gmail](https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendeladf13@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-A855F7?style=for-the-badge&logo=fiverr&logoColor=white)](https://br.fiverr.com/s/m58rpKx)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
- 
+
+<a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8" target="_blank">
+  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=32" height="52" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:wendeladf13@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=32" height="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://br.fiverr.com/s/m58rpKx" target="_blank">
+  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=fiverr&logoColor=1DBF73&logoWidth=32" height="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/-0d0117?style=for-the-badge&logo=spotify&logoColor=1DB954&logoWidth=32" height="52" />
+</a>
+
+<br/><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Wendeladf&color=7C3AED&style=for-the-badge&label=VISITAS)
- 
+
 </div>
- 
- 
+
 ---
- 
+
 ## 👾 Sobre mim
- 
+
 ```yaml
 name:        Wendel Augusto Dias Ferreira
 location:    Bonito, MS — Brasil 🌿
@@ -34,17 +46,17 @@ focus:       Modernização de sistemas legados + produtos com impacto real
 available:   Remoto (BR e internacional) · Presencial em Bonito/MS
 languages:   Português 🇧🇷 · English 🇺🇸
 ```
- 
+
 > 🟣 Construo software que resolve problema de verdade — do setor público ao ecoturismo, com performance, usabilidade e resultado.
- 
+
 ---
- 
+
 ## 🛠️ Stack completa
- 
+
 <div align="center">
- 
+
 ### 🎨 Frontend
- 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -77,9 +89,9 @@ languages:   Português 🇧🇷 · English 🇺🇸
     </td>
   </tr>
 </table>
- 
+
 ### ⚙️ Backend
- 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -104,9 +116,9 @@ languages:   Português 🇧🇷 · English 🇺🇸
     </td>
   </tr>
 </table>
- 
+
 ### 🤖 IA & DevOps
- 
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -131,13 +143,13 @@ languages:   Português 🇧🇷 · English 🇺🇸
     </td>
   </tr>
 </table>
- 
+
 </div>
- 
+
 ---
- 
+
 ## 🚀 Projetos em destaque
- 
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -175,57 +187,50 @@ languages:   Português 🇧🇷 · English 🇺🇸
     </td>
   </tr>
 </table>
- 
+
 ---
- 
+
 ## 📊 GitHub Analytics
- 
+
 <div align="center">
- 
+
 <a href="https://github.com/Wendeladf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendeladf&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=A855F7&icon_color=7C3AED&text_color=c084fc&bg_color=0d0117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendeladf&layout=donut&theme=midnight-purple&hide_border=true&title_color=A855F7&text_color=c084fc&bg_color=0d0117&langs_count=8" />
 </a>
- 
-<br/>
- 
-<img src="https://streak-stats.demolab.com?user=Wendeladf&theme=midnight-purple&hide_border=true&ring=A855F7&fire=7C3AED&currStreakLabel=c084fc&background=0d0117&sideLabels=c084fc&dates=9333EA&currStreakNum=white&sideNums=white&locale=pt_BR" />
- 
-</div>
- 
- 
----
- 
-## 📈 Atividade
- 
-<div align="center">
- 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wendeladf&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=A855F7&point=c084fc&color=c084fc&bg_color=0d0117)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-</div>
- 
----
- 
-## 🎵 Ouvindo no Spotify
- 
-<div align="center">
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true">
-  </a>
-</p>
- 
-> ⚠️ **Para ativar:** acesse [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com), conecte sua conta Spotify, copie seu UID e substitua `SEU_SPOTIFY_UID` acima.
- 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Wendeladf&theme=midnight-purple&hide_border=true&ring=A855F7&fire=7C3AED&currStreakLabel=c084fc&background=0d0117&sideLabels=c084fc&dates=9333EA&currStreakNum=white&sideNums=white&locale=pt_BR" />
+
 </div>
- 
+
 ---
- 
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wendeladf&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=A855F7&point=c084fc&color=c084fc&bg_color=0d0117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎵 Ouvindo no Spotify
+
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=p600uz1vz1vlujt56vdvpffwz&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0117&interchange=false&bar_color=A855F7&bar_color_cover=true" />
+</a>
+
+</div>
+
+---
+
 ## 🟡 Pac-Man comendo meu histórico de contribuições
- 
+
 <div align="center">
   <sub>👾 Pac-Man e os fantasmas percorrem cada commit — e não param! 🟣</sub>
   <br /><br />
@@ -235,11 +240,11 @@ languages:   Português 🇧🇷 · English 🇺🇸
     <img alt="pac-man comendo contribuições do github" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/pacman-contribution-graph.svg" />
   </picture>
 </div>
- 
+
 ---
- 
+
 <div align="center">
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,30&height=100&section=footer&text=Bora+construir+algo+incrível?&fontSize=20&fontColor=c084fc&fontAlignY=65&animation=fadeIn" />
- 
+
 </div>
