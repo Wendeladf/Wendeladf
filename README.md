@@ -17,20 +17,6 @@
  
 </div>
  
----
- 
-<div align="center">
- 
-```
- ██╗    ██╗███████╗███╗   ██╗██████╗ ███████╗██╗
- ██║    ██║██╔════╝████╗  ██║██╔══██╗██╔════╝██║
- ██║ █╗ ██║█████╗  ██╔██╗ ██║██║  ██║█████╗  ██║
- ██║███╗██║██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ██║
- ╚███╔███╔╝███████╗██║ ╚████║██████╔╝███████╗███████╗
-  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝
-```
- 
-</div>
  
 ---
  
@@ -47,7 +33,6 @@ experience:
 focus:       Modernização de sistemas legados + produtos com impacto real
 available:   Remoto (BR e internacional) · Presencial em Bonito/MS
 languages:   Português 🇧🇷 · English 🇺🇸
-color:       "#7C3AED"  # roxo, sem discussão
 ```
  
 > 🟣 Construo software que resolve problema de verdade — do setor público ao ecoturismo, com performance, usabilidade e resultado.
@@ -208,15 +193,6 @@ color:       "#7C3AED"  # roxo, sem discussão
  
 </div>
  
----
- 
-## 🏆 Troféus
- 
-<div align="center">
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wendeladf&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=A855F7)](https://github.com/ryo-ma/github-profile-trophy)
- 
-</div>
  
 ---
  
