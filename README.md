@@ -1,61 +1,95 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4FC08D&center=true&vCenter=true&width=760&lines=Ol%C3%A1+%F0%9F%91%8B+Eu+sou+Wendel+Augusto;Fullstack+Developer;Vue.js+%C2%B7+React+%C2%B7+PHP+%C2%B7+Python;Transformando+ideias+em+sistemas+de+verdade" alt="Typing SVG" />
+<!-- Pac-Man eats through contributions instead of snake -->
+<!-- GitHub Actions workflow: replace snake with pac-man -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,30&height=180&section=header&text=Wendel%20Augusto&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%94%20Vue%20%C2%B7%20React%20%C2%B7%20PHP%20%C2%B7%20Python&descAlignY=60&descColor=c084fc&animation=fadeIn" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-augusto-b019b82b8)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendeladf13@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=🟣+Transformando+ideias+em+sistemas+reais;⚡+5+anos+de+Vue.js+%2F+Quasar;🧠+Setor+público+ao+ecoturismo;🤖+Explorando+IA+com+LangChain+%2B+RAG;🌿+Bonito%2C+MS+—+Brasil" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wendeladf&color=4FC08D&style=for-the-badge)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-augusto-b019b82b8)
+[![Gmail](https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendeladf13@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-A855F7?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wendeladf&color=7C3AED&style=for-the-badge&label=VISITAS)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+<div align="center">
+
+```
+ ██╗    ██╗███████╗███╗   ██╗██████╗ ███████╗██╗
+ ██║    ██║██╔════╝████╗  ██║██╔══██╗██╔════╝██║
+ ██║ █╗ ██║█████╗  ██╔██╗ ██║██║  ██║█████╗  ██║
+ ██║███╗██║██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ██║
+ ╚███╔███╔╝███████╗██║ ╚████║██████╔╝███████╗███████╗
+  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝
+```
+
+</div>
+
+---
+
+## 👾 Sobre mim
 
 ```yaml
 name:        Wendel Augusto Dias Ferreira
 location:    Bonito, MS — Brasil 🌿
 role:        Fullstack Developer
-experience:  5 anos com Vue.js/Quasar · 3 anos com React, PHP e Python
+experience:
+  - Vue.js / Quasar → 5 anos
+  - React / PHP / Python → 3 anos
+  - IA com LangChain + RAG → em evolução
 focus:       Modernização de sistemas legados + produtos com impacto real
 available:   Remoto (BR e internacional) · Presencial em Bonito/MS
 languages:   Português 🇧🇷 · English 🇺🇸
+color:       "#7C3AED"  # roxo, sem discussão
 ```
 
-> Construo software para resolver problema de verdade: do setor público ao ecoturismo, com performance, usabilidade e resultado.
+> 🟣 Construo software que resolve problema de verdade — do setor público ao ecoturismo, com performance, usabilidade e resultado.
 
 ---
 
-## 🛠️ Stack principal
+## 🛠️ Stack completa
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-1a0533?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Quasar](https://img.shields.io/badge/Quasar-1a0533?style=for-the-badge&logo=quasar&logoColor=A855F7)
+![React](https://img.shields.io/badge/React-1a0533?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-1a0533?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a0533?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### IA e integrações
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-1a0533?style=for-the-badge&logo=php&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-1a0533?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![JWT](https://img.shields.io/badge/JWT-1a0533?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1a0533?style=for-the-badge&logo=fastapi&logoColor=A855F7)
 
-### Explorando agora
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
-![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+### 🤖 IA & Integrações
+![LangChain](https://img.shields.io/badge/LangChain-1a0533?style=for-the-badge&logo=chainlink&logoColor=A855F7)
+![Rasa](https://img.shields.io/badge/Rasa-1a0533?style=for-the-badge&logo=rasa&logoColor=5A17EE)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a0533?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🚀 Explorando agora
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a0533?style=for-the-badge&logo=graphql&logoColor=E10098)
+![Redis](https://img.shields.io/badge/Redis-1a0533?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-1a0533?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a0533?style=for-the-badge&logo=elasticsearch&logoColor=A855F7)
+
+</div>
 
 ---
 
@@ -65,69 +99,103 @@ languages:   Português 🇧🇷 · English 🇺🇸
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 SaaS Controle de Acesso</h3>
-      <p>Reconhecimento facial + biometria Intelbras/BTMS para a <strong>Prefeitura de Bonito/MS</strong>, com dashboards em tempo real para monitoramento de acesso.</p>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Biometria-4FC08D?style=flat-square"/>
+      <p>Reconhecimento facial + biometria Intelbras/BTMS para a <strong>Prefeitura de Bonito/MS</strong> com dashboards em tempo real.</p>
+      <img src="https://img.shields.io/badge/Vue.js-1a0533?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+      <img src="https://img.shields.io/badge/PHP-1a0533?style=flat-square&logo=php&logoColor=A855F7"/>
+      <img src="https://img.shields.io/badge/Biometria-7C3AED?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Status-Em_produção-6D28D9?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🎫 Vouchers Turísticos</h3>
-      <p>Modernização de sistema legado (anos 90) operando em <strong>3 municípios</strong>, reduzindo superlotação e crimes ambientais no ecoturismo.</p>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <p>Modernização de sistema legado (anos 90) operando em <strong>3 municípios</strong>, reduzindo superlotação e crimes ambientais.</p>
+      <img src="https://img.shields.io/badge/Vue.js-1a0533?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+      <img src="https://img.shields.io/badge/PHP-1a0533?style=flat-square&logo=php&logoColor=A855F7"/>
+      <img src="https://img.shields.io/badge/MySQL-1a0533?style=flat-square&logo=mysql&logoColor=4479A1"/>
+      <img src="https://img.shields.io/badge/Status-Em_produção-6D28D9?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📖 Plataforma de Novels</h3>
-      <p>Leitura fluida com carregamento dinâmico e arquitetura para <strong>alto volume de conteúdo</strong> com foco na experiência do leitor.</p>
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-      <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white"/>
+      <p>Leitura fluida com carregamento dinâmico para <strong>alto volume de conteúdo</strong> com foco total na experiência do leitor.</p>
+      <img src="https://img.shields.io/badge/Vue.js-1a0533?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+      <img src="https://img.shields.io/badge/Quasar-1a0533?style=flat-square&logo=quasar&logoColor=A855F7"/>
+      <img src="https://img.shields.io/badge/Status-Ativo-6D28D9?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 FAQ com IA <em>(em desenvolvimento)</em></h3>
-      <p>Plataforma de perguntas e respostas com <strong>LangChain + RAG</strong>, busca semântica e respostas contextualizadas.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG-4FC08D?style=flat-square"/>
+      <h3>🤖 FAQ com IA <em>(em dev)</em></h3>
+      <p>Plataforma Q&A com <strong>LangChain + RAG</strong>, busca semântica e respostas contextualizadas com base em documentos.</p>
+      <img src="https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/LangChain-1a0533?style=flat-square&logo=chainlink&logoColor=A855F7"/>
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Status-Em_desenvolvimento-A855F7?style=flat-square"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wendeladf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendeladf&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Wendeladf&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&title_color=A855F7&icon_color=7C3AED&text_color=c084fc&bg_color=0d0117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendeladf&layout=compact&theme=midnight-purple&hide_border=true&title_color=A855F7&text_color=c084fc&bg_color=0d0117" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Wendeladf&theme=tokyonight&hide_border=true)
+<br/>
 
-</div>
-
-
-
-## 📈 Atividade
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wendeladf&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://streak-stats.demolab.com?user=Wendeladf&theme=midnight-purple&hide_border=true&ring=A855F7&fire=7C3AED&currStreakLabel=c084fc&background=0d0117&sideLabels=c084fc&dates=9333EA&currStreakNum=white&sideNums=white)
 
 </div>
 
 ---
 
-## 🐍 Snake animation
+## 🏆 Troféus
 
 <div align="center">
-  <sub>Consistência diária, quadradinho por quadradinho 🟩</sub>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wendeladf&theme=darkhub&no-frame=true&column=7&margin-w=8&title_color=A855F7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wendeladf&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=A855F7&point=c084fc&color=c084fc&bg_color=0d0117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🟡 Pac-Man comendo meu histórico de contribuições
+
+<div align="center">
+  <sub>👾 Cada quadradinho é um commit — e o Pac-Man não para de comer! 🟣</sub>
   <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg" />
+    <img alt="pac-man comendo contribuições do github" src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+---
+
+## 💬 Frase da semana
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+poetry+written+in+logic&author=Wendel+Augusto)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,20,30&height=100&section=footer&text=Bora+construir+algo+incrível?&fontSize=20&fontColor=c084fc&fontAlignY=65&animation=fadeIn" />
+
 </div>
