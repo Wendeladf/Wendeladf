@@ -170,7 +170,7 @@ color:       "#7C3AED"  # roxo, sem discussão
 ## 🟡 Pac-Man comendo meu histórico de contribuições
 
 <div align="center">
-  <sub>👾 Cada quadradinho é um commit — e o Pac-Man não para de comer! 🟣</sub>
+  <sub>👾 Pac-Man e os fantasmas percorrem cada commit — e não param! 🟣</sub>
   <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendeladf/Wendeladf/output/pacman-contribution-graph-dark.svg" />
