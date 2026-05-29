@@ -7,15 +7,15 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="./assets/linkedin.svg" width="42" height="42" />
+  <img src="./assets/linkedin.svg" width="48" height="48" />
 </a>
 &nbsp;&nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="./assets/fiverr.svg" width="42" height="42" />
+  <img src="./assets/fiverr.svg" width="48" height="48" />
 </a>
 &nbsp;&nbsp;
 <a href="SEU_INSTAGRAM">
-  <img src="./assets/instagram.svg" width="42" height="42" />
+  <img src="./assets/instagram.svg" width="48" height="48" />
 </a>
 
 <br/><br/>
