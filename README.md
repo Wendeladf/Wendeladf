@@ -9,11 +9,11 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="./assets/linkedin.jpg" width="40" height="40" />
+  <img src="./assets/linkedin.svg" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="./assets/fiverr.png" width="40" height="40" />
+  <img src="./assets/fiverr.svg" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="SEU_INSTAGRAM">
