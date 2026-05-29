@@ -196,9 +196,9 @@ languages:   Português 🇧🇷 · English 🇺🇸
 
 <br/>
 
-<img src="https://github-readme-stats-wendeladf.vercel.app/api?username=Wendeladf&show_icons=true&theme=midnight_purple&hide_border=true&bg_color=0d0117&title_color=A855F7&icon_color=7C3AED&text_color=c084fc&rank_icon=github&locale=pt-br" />
+<img src="https://github-readme-stats-wendeladf.vercel.app/api?username=Wendeladf&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0117&title_color=A855F7&icon_color=7C3AED&text_color=c084fc&rank_icon=github&locale=pt-br" />
 &nbsp;
-<img src="https://github-readme-stats-wendeladf.vercel.app/api/top-langs/?username=Wendeladf&layout=compact&theme=midnight_purple&hide_border=true&bg_color=0d0117&title_color=A855F7&text_color=c084fc&locale=pt-br" />
+<img src="https://github-readme-stats-wendeladf.vercel.app/api/top-langs/?username=Wendeladf&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0117&title_color=A855F7&text_color=c084fc&locale=pt-br" />
 
 <br/>
 
