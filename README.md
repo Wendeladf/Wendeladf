@@ -9,15 +9,15 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&bg=transparent" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/main/assets/linkedin.png" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=fiverr&size=40&bg=transparent" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/main/assets/fiverr.png" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="SEU_INSTAGRAM">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=40&bg=transparent" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Wendeladf/Wendeladf/main/assets/instagram.png" width="40" height="40" />
 </a>
 
 <br/><br/>
