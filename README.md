@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/fiverr.png" width="40" height="40" />
 </a>
 &nbsp;
 <a href="SEU_INSTAGRAM">
