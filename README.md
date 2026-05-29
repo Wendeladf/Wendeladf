@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=🟣+Transformando+ideias+em+sistemas+reais;⚡+5+anos+de+Vue.js+%2F+Quasar;🧠+Setor+público+ao+ecoturismo;🤖+Explorando+IA+com+LangChain+%2B+RAG;🌿+Bonito%2C+MS+—+Brasil" alt="Typing SVG" />
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
