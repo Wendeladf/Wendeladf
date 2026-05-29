@@ -4,20 +4,20 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=🟣+Transformando+ideias+em+sistemas+reais;⚡+5+anos+de+Vue.js+%2F+Quasar;🧠+Setor+público+ao+ecoturismo;🤖+Explorando+IA+com+LangChain+%2B+RAG;🌿+Bonito%2C+MS+—+Brasil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=🟣+Transformando+ideias+em+sistemas+reais;⚡+5+anos+de+Vue.js+%2F+Quasar;🧠+Setor+público+ao+ecoturismo;🤖+Explorando+IA+com+LangChain+%2B+RAG;🌿+Bonito%2C+MS+—+Brasil" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="./assets/linkedin.svg" width="40" height="40" />
+  <img src="./assets/linkedin.svg" width="52" height="52" />
 </a>
 &nbsp;&nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="./assets/fiverr.svg" width="40" height="40" />
+  <img src="./assets/fiverr.svg" width="52" height="52" />
 </a>
 &nbsp;&nbsp;
 <a href="SEU_INSTAGRAM">
-  <img src="./assets/instagram.svg" width="40" height="40" /> 
+  <img src="./assets/instagram.svg" width="52" height="52" />
 </a>
 
 <br/><br/>
