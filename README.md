@@ -9,15 +9,15 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="https://github.com/user-attachments/assets/e0d4cec1-2a63-4685-ba26-2781739bd30d" width="40" height="40" />
+  <img src="https://github.com/user-attachments/assets/976b568e-53ef-48b3-af20-ab9dcb30c131" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="https://github.com/user-attachments/assets/2f7dd357-16cf-4302-95ba-7d08a3cf78d9" width="40" height="40" />
+  <img src="https://github.com/user-attachments/assets/860fc509-8f66-4212-b570-f4f3d10c322b" width="40" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="SEU_INSTAGRAM">
-  <img src="https://github.com/user-attachments/assets/2939e657-11da-447d-884e-78c406d1eb1b" width="40" height="40" />
+  <img src="https://github.com/user-attachments/assets/4629d217-9244-4bbe-898e-c641dfce018f" width="40" height="40" />
 </a>
 
 <br/><br/>
