@@ -188,14 +188,15 @@ languages:   Português 🇧🇷 · English 🇺🇸
 
 <div align="center">
 
-<a href="https://github.com/Wendeladf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendeladf&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=A855F7&icon_color=7C3AED&text_color=c084fc&bg_color=0d0117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendeladf&layout=donut&theme=midnight-purple&hide_border=true&title_color=A855F7&text_color=c084fc&bg_color=0d0117&langs_count=8" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wendeladf&theme=midnight_purple" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wendeladf&theme=midnight_purple" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Wendeladf&theme=midnight_purple&utcOffset=-4" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Wendeladf&theme=midnight-purple&hide_border=true&ring=A855F7&fire=7C3AED&currStreakLabel=c084fc&background=0d0117&sideLabels=c084fc&dates=9333EA&currStreakNum=white&sideNums=white&locale=pt_BR" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Wendeladf&theme=midnight-purple&hide_border=true&ring=A855F7&fire=7C3AED&currStreakLabel=c084fc&background=0d0117&sideLabels=c084fc&dates=9333EA&currStreakNum=white&sideNums=white&locale=pt_BR" />
 
 </div>
 
