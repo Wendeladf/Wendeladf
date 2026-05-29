@@ -8,16 +8,16 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" />
+<a href="https://www.linkedin.com/in/wendel-augusto-b019b82b8" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="38" height="38" />
 </a>
 &nbsp;
-<a href="https://br.fiverr.com/s/m58rpKx">
-  <img src="https://img.icons8.com/color/48/fiverr.png" width="40" height="40" />
+<a href="https://br.fiverr.com/s/m58rpKx" title="Fiverr">
+  <img src="https://cdn.simpleicons.org/fiverr/1DBF73" alt="Fiverr" width="38" height="38" />
 </a>
 &nbsp;
-<a href="SEU_INSTAGRAM">
-  <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" height="40" />
+<a href="SEU_INSTAGRAM" title="Instagram">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="38" height="38" />
 </a>
 
 <br/><br/>
